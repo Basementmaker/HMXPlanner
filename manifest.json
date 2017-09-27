@@ -1,0 +1,15 @@
+{
+    "name":"HMX Planner",
+    "version":"0.1",
+    "manifest_version":2,
+    "description":"A Digital Planner app made for Hommocks Middle School",
+    "app":{
+        "urls":["https://sites.google.com/mamkschools.org/comingsoon/home"],
+        "launch":{
+        "web_url":"https://sites.google.com/mamkschools.org/comingsoon/home"
+        }
+    },
+	"icons":{
+            "128":"icon.png"
+    }
+}
